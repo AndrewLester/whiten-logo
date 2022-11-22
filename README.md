@@ -7,5 +7,5 @@ pip install -r requirements.txt
 ```
 
 ```bash
-python3 whiten.py original.png [whitened.png]
+python3 whiten.py original.png [--output whitened.png]
 ```
